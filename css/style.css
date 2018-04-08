@@ -5,6 +5,9 @@ html,body{
   margin: 0;
   background-color: #087dd8;
 }
+h1{
+  font-weight: 300;
+}
 p{
   line-height: 140%;
 }
