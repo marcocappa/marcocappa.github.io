@@ -2,4 +2,4 @@
 
 Hi there! I'm Marco Cappa and this is my simple front page.
 
-[marcocappa.github.io](marcocappa.github.io)
+[marcocappa.github.io](https://marcocappa.github.io/)
